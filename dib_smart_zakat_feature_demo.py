@@ -3,7 +3,7 @@
 #
 # DISCLAIMER:
 # This is a fictional feature and demo-only code.
-# It does NOT represent real systems, data, or implementations of Dubai Islamic Bank.
+# It does NOT represent real systems, data, or implementations of Dubai Islamic Bank. This will be used for Datanet as well
 
 """
 Feature Description:
