@@ -1,0 +1,31 @@
+{
+  "machines": [
+    {
+      "model": "336 GC",
+      "category": "Hydraulic Excavator",
+      "operatingWeight_kg": 36000,
+      "countries": ["UAE", "KWT", "QAT", "OMN", "BAH"],
+      "dayRate_USD": 450,
+      "weekRate_USD": 2400,
+      "monthRate_USD": 8900
+    },
+    {
+      "model": "950 GC",
+      "category": "Wheel Loader",
+      "operatingWeight_kg": 18400,
+      "countries": ["UAE", "KWT", "QAT"],
+      "dayRate_USD": 380,
+      "weekRate_USD": 2050,
+      "monthRate_USD": 7600
+    },
+    {
+      "model": "D6 XE",
+      "category": "Dozer",
+      "operatingWeight_kg": 20500,
+      "countries": ["UAE", "OMN"],
+      "dayRate_USD": 520,
+      "weekRate_USD": 2800,
+      "monthRate_USD": 10500
+    }
+  ]
+}
