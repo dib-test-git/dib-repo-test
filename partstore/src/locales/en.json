@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "catalog": "Catalog",
+    "myFleet": "My Fleet",
+    "orders": "Orders",
+    "account": "Account"
+  },
+  "search": {
+    "placeholder": "Search parts by number or keyword",
+    "bySerial": "Search by machine serial"
+  },
+  "cart": {
+    "empty": "Your cart is empty",
+    "checkout": "Checkout",
+    "total": "Total"
+  },
+  "order": {
+    "confirmed": "Order confirmed",
+    "reference": "Reference number"
+  }
+}
